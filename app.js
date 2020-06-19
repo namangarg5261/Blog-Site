@@ -96,5 +96,5 @@ app.delete("/blogs/:id", function(req, res){
    }); 
 });
 app.listen(5000, function(){
-    console.log(`Yelp camp server started at http://localhost:5000/`);
+    console.log(`Blog Site started at http://localhost:5000/`);
 });
